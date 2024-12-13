@@ -1,0 +1,17 @@
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme 
+- jekyll-readme-index
+- jekyll-gfm-admonitions
+- jemoji
+title: USRA   
+description:  Uncertainty Site Response Analysis Engine
+show_downloads: true
+# google_analytics: G-T51PTWVNFD 
+github:
+  zip_url: https://raw.githubusercontent.com/AntroxEV/USRA/main/PACKAGES/USRA.mlappinstall
+  tar_url: https://raw.githubusercontent.com/AntroxEV/USRA/main/PACKAGES/MyAppInstaller_web.exe
+  repository_url: https://github.com/AntroxEV/USRA
+markdown: GFM
+repository: AntroxEV/USRAWEB
+author: Dr Alessandro Tombari
